@@ -1,8 +1,6 @@
-- 👋 Olá, sou @DaviStalleiken
-- 👀 Tenho interesse em sempre aprender mais e trabalhar em novos projetos.
-- 🌱 Atualmente estou estudando com foco em Python e Automação Web com frameworks.
-- 💞️ Procuro por estágios, trabalhos efetivos e colaborações simples.
-- 📫 Você me encontra em davistalleiken@gmail.com ou mandando uma mensagem para @Davi_Stalleiken no Twitter.
+Sou Davi Stalleiken, graduado em Análise e Desenvolvimento de Sistemas e atualmente estou estudando e buscando trabalho em desenvolvimento web Full Stack. Meu foco é Next.Js, React, React Native, Typescript e Cypress.
+
+Você me encontra em davistalleiken@gmail.com.
 
 <!---
 DaviStalleiken/DaviStalleiken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
