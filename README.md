@@ -2,10 +2,12 @@ Graduado em Análise e Desenvolvimento de Sistemas, atualmente estudando e busca
 
 Você me encontra em davistalleiken@gmail.com.
 
-[![Davi Stalleiken's GitHub stats](github-readme-stats.vercel.app/api/top-langs?username=DaviStalleiken&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,javascript&theme=dracula&show_icons=true)](https://github.com/DaviStalleiken)
+[![Davi Stalleiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviStalleiken&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,javascript&theme=dracula&show_icons=true)](https://github.com/DaviStalleiken/github-readme-stats)
 
 <!---
 DaviStalleiken/DaviStalleiken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=DaviStalleiken&theme=dracula&show_icons=true)](https://github.com/DaviStalleiken)
+
+[![Davi Stalleiken's GitHub stats](github-readme-stats.vercel.app/api/top-langs?username=DaviStalleiken&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,javascript&theme=dracula&show_icons=true)](https://github.com/DaviStalleiken)
 --->
