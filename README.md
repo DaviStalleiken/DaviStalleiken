@@ -2,7 +2,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, atualmente estudando e busca
 
 Você me encontra em davistalleiken@gmail.com.
 
-[![Davi Stalleiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviStalleiken&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,javascript&theme=dracula&show_icons=true)](https://github.com/DaviStalleiken/github-readme-stats)
+[![Davi Stalleiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviStalleiken&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,javascript&theme=dracula&show_icons=true)](https://github.com/DaviStalleiken)
 
 <!---
 DaviStalleiken/DaviStalleiken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
